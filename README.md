@@ -5,3 +5,5 @@
 ### By extending the JPA repo, this project can write tables directly to the SQL server.
 POST MAN TEST:
 ![image](https://user-images.githubusercontent.com/40246928/201208673-023b3939-f44e-465a-b093-e64b2ead36c8.png)
+![image](https://user-images.githubusercontent.com/40246928/201208816-0bf0bec4-a4b3-4fc1-b0c8-b3e965ac5d2d.png)
+Using Serializable the model can easily communicate with the SQL database
